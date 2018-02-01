@@ -1,6 +1,7 @@
 {
     "versionList": [
         {
+            "description": "Pixelmon Reforged",
             "mcVersion": "Minecraft 1.12.2",
             "modVersion": "4.0.0",
             "pkVersion": "Pixelmon 6.1.0",
@@ -10,6 +11,17 @@
             "newFileName": ""
         },
         {
+            "description": "Pixelmon Generations",
+            "mcVersion": "Minecraft 1.10.2",
+            "modVersion": "3.9.1",
+            "pkVersion": "Pixelmon 1.3.2",
+            "changeLog": [ ],
+            "updateURL": "https://github.com/kcaf/PokeRadar",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
+            "description": "Pixelmon Classic",
             "mcVersion": "Minecraft 1.10.2",
             "modVersion": "3.8.0",
             "pkVersion": "Pixelmon 5.0.4",
@@ -19,6 +31,7 @@
             "newFileName": ""
         },
         {
+            "description": "Pixelmon Classic",
             "mcVersion": "Minecraft 1.10.2",
             "modVersion": "3.8.0",
             "pkVersion": "Pixelmon 5.0.3",
