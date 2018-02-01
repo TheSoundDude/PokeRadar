@@ -59,6 +59,9 @@ Pressing N will cycle through the following Map Modes:
 - (new) Hide all traces of PokeRadar from screen. This allows you to safely take screenshots.
   
 
+## Help! A webpage opens when I start Minecraft!
+[Click here](https://github.com/kcaf/PokeRadar/wiki/A-webpage-opened%3F) to find out more.
+
 ## Problems / Suggestions
 Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) describing in detail the problem you're having with the mod and include and error logs you may have. If you've got a suggestion, post there as well and I'll see what I can do!
   
