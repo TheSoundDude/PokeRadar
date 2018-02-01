@@ -28,7 +28,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.1](https://goo.gl/e14232)
   
 &nbsp;&nbsp; *Pixelmon Classic 5.0.4 - 5.1.2*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.8.0](https://goo.gl/aBhsyv)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.1](https://goo.gl/e14232)
   
 
 ## Screenshots
