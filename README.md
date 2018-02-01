@@ -56,4 +56,5 @@ Pressing N will cycle through the following Map Modes:
 Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) describing in detail the problem you're having with the mod and include and error logs you may have. If you've got a suggestion, post there as well and I'll see what I can do!
   
 
-
+## Support PokeRadar Development
+PokeRadar is now and will __always__ be **100% free**. Please understand that it takes time to work on this mod and to bring you these many awesome features. You can support development at no monetary cost just by clicking [this link](https://kcaf.github.io/PokeRadar/) and keeping the tab open. Thank you so much for all the love and support over the years! <3
