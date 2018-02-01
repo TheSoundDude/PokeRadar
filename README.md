@@ -20,7 +20,7 @@
 ## DOWNLOAD ([Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log))
 
 ### Minecraft 1.12.2
-&nbsp;&nbsp; *Pixelmon Reforged*
+&nbsp;&nbsp; *Pixelmon Reforged 6.1.0*
 &nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.0.0](https://goo.gl/9Wm6rM)
   
 ### Minecraft 1.10.2
