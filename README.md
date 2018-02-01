@@ -25,10 +25,10 @@
   
 ### Minecraft 1.10.2
 &nbsp;&nbsp; *Pixelmon Generations 1.3.2*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.1](https://goo.gl/e14232)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.2](https://goo.gl/HyL7Di)
   
 &nbsp;&nbsp; *Pixelmon Classic 5.0.4 - 5.1.2*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.1](https://goo.gl/e14232)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.2](https://goo.gl/HyL7Di)
   
 
 ## Screenshots
