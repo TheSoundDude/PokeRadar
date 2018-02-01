@@ -1,5 +1,8 @@
 ***Forge Required: https://files.minecraftforge.net/***  
 
+# Discord
+[https://discord.gg/7zWEuT8](https://discord.gg/7zWEuT8)
+
 # PokeRadar for Minecraft Pixelmon
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
