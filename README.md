@@ -1,7 +1,3 @@
-## NOTICE: Pixelmon development has been [discontinued](http://pixelmonmod.com/viewtopic.php?f=5&t=25183). As such, I will no longer be developing PokeRadar. I have uploaded the source code should you wish to modify it any further. [So long, and thanks for all the fish!](https://www.youtube.com/watch?v=ojydNb3Lrrs)
-  
-  
-  
 ***Forge Required: https://files.minecraftforge.net/***  
 
 # PokeRadar for Minecraft Pixelmon
