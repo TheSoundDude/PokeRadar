@@ -1,6 +1,15 @@
 {
     "versionList": [
         {
+            "mcVersion": "Minecraft 1.12.2",
+            "modVersion": "4.0.0",
+            "pkVersion": "Pixelmon 6.1.0",
+            "changeLog": [ ],
+            "updateURL": "https://github.com/kcaf/PokeRadar",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
             "mcVersion": "Minecraft 1.10.2",
             "modVersion": "3.8.0",
             "pkVersion": "Pixelmon 5.0.4",

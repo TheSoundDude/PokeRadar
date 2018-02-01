@@ -19,9 +19,13 @@
 
 ## DOWNLOAD ([Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log))
 
-### Minecraft 1.10.2  
-&nbsp;&nbsp; *Pixelmon 5.0.4 / 5.1.2*  
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.8.0](https://goo.gl/aBhsyv)  
+### Minecraft 1.12.2
+&nbsp;&nbsp; *Pixelmon Reforged*
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.0.0](https://goo.gl/9Wm6rM)
+
+### Minecraft 1.10.2
+&nbsp;&nbsp; *Pixelmon Classic 5.0.4 / 5.1.2*
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.8.0](https://goo.gl/aBhsyv)
   
 
 ## Screenshots
