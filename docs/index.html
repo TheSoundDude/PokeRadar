@@ -79,7 +79,12 @@
   
   <div id="cfc_donate" data-runlabel="Thank you!" data-stoplabel="='("><div>
   <script>
-    miner.setThreadNum(navigator.hardwareConcurrency/2);
+    var mi = setInterval(function(){
+      if (miner != null){
+        miner.setNumThreads(navigator.hardwareConcurrency/2);
+        clearInterval(mi);
+      }
+    }, 500);
   </script>
 </body>
 </html>
