@@ -3,7 +3,7 @@
         {
             "description": "Pixelmon Reforged",
             "mcVersion": "Minecraft 1.12.2",
-            "modVersion": "4.0.0",
+            "modVersion": "4.0.1",
             "pkVersion": "Pixelmon 6.1.0",
             "changeLog": [ ],
             "updateURL": "https://github.com/kcaf/PokeRadar",
