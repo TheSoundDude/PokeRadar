@@ -4,6 +4,7 @@
 [https://discord.gg/7zWEuT8](https://discord.gg/7zWEuT8)
 
 # PokeRadar for Minecraft Pixelmon
+- PokeRadar is once again UNDETECTABLE! Party hard friends!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
 - NPC detection
@@ -24,14 +25,14 @@
 
 ### Minecraft 1.12.2
 &nbsp;&nbsp; *Pixelmon Reforged 6.1.0*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.0.1](https://goo.gl/Xt2pdq)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.0.2](https://github.com/kcaf/PokeRadar/releases/tag/4.0.2)
   
 ### Minecraft 1.10.2
 &nbsp;&nbsp; *Pixelmon Generations 1.3.2*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.3](https://goo.gl/KrPFtE)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.4](https://github.com/kcaf/PokeRadar/releases/tag/3.9.4)
   
 &nbsp;&nbsp; *Pixelmon Classic 5.0.4 - 5.1.2*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.3](https://goo.gl/KrPFtE)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.9.4](https://github.com/kcaf/PokeRadar/releases/tag/3.9.4)
   
 
 ## Screenshots
