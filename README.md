@@ -1,5 +1,3 @@
-***Forge Required: https://files.minecraftforge.net/***  
-
 # Discord
 [https://discord.gg/7zWEuT8](https://discord.gg/7zWEuT8)
 
@@ -22,6 +20,7 @@
   
 
 ## DOWNLOAD ([Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log))
+***Forge Required: https://files.minecraftforge.net/***  
 
 ### Minecraft 1.12.2
 &nbsp;&nbsp; *Pixelmon Reforged 6.1.0*
