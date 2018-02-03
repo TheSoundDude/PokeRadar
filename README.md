@@ -1,5 +1,4 @@
-# Discord
-[https://discord.gg/7zWEuT8](https://discord.gg/7zWEuT8)
+[![Join Discord](https://i.imgur.com/5PeuGS2.png)](https://discord.gg/7zWEuT8)
 
 # PokeRadar for Minecraft Pixelmon
 - PokeRadar is once again UNDETECTABLE! Party hard friends!
