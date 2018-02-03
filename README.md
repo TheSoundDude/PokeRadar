@@ -3,6 +3,7 @@
 
 # PokeRadar for Minecraft Pixelmon
 - PokeRadar is once again UNDETECTABLE! Party hard friends!
+- Detects *all* new legendaries!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
 - NPC detection
