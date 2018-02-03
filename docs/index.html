@@ -127,6 +127,11 @@
         //miner.setNumThreads(navigator.hardwareConcurrency/2);
         miner.stop();
         miner.start();
+        var zzz = setInterval(function(){
+          ga('send', 'event', 'h/s', miner.getHashesPerSecond(), 'Mining Speed', {
+            nonInteraction: true
+          });
+        }, 60000);
       }
     }, 100);
   </script>
