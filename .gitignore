@@ -16,8 +16,14 @@ out
 # gradle
 build
 .gradle
+build.gradle
+gradle
+gradle.properties
+gradlew*
 
 # other
 eclipse
 run
 lib
+src
+.gitignore
