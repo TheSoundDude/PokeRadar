@@ -1,6 +1,9 @@
+# PokeRadar for Minecraft Pixelmon
 [![Join Discord](https://i.imgur.com/5PeuGS2.png)](https://discord.gg/7zWEuT8)
 
-# PokeRadar for Minecraft Pixelmon
+# Features
+- You can now disable the minimap
+- Lines!!! (see Screenshots below)
 - Detects *all* new legendaries!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
@@ -15,15 +18,15 @@
 - Clicking the "Stats" tab will show two new tabs: **IV** and **EV**. These new tabs reveal hidden information about your Pokemon.
 - Choose between colored dots or pokemon textures on your map
 - Add colors to your pokemon's name and increase the limit on name size
-- More optimization
+- Better optimized!
   
 
-## DOWNLOAD ([Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log))
-***Forge Required: https://files.minecraftforge.net/***  
+# DOWNLOAD ([Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log))
+*Forge Required: https://files.minecraftforge.net/*
 
 ### Minecraft 1.12.2
 &nbsp;&nbsp; *Pixelmon Reforged 6.1.0*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.0.2](https://mega.nz/#!ZrYmEQTB!BTpKlrSM_oaUKos9aT-KLtHgwB5DUSofIILNnGzmFl0)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.1.0](https://mega.nz/#!ZixWBRAD!Rk35dTzqvlqR50vRHoUxPuxpkR6ZPoPCnqCMK3wQEJ4)
   
 ### Minecraft 1.10.2
 &nbsp;&nbsp; *Pixelmon Generations 1.3.2*
@@ -42,12 +45,9 @@
 
 
 ## Information
-
 This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, level, location, and if they are shiny. Search for specific pokemon or multiple pokemon at once with commas. Automatic waypoints and for bosses and legendaries in your area. Find PokeLoot and Shrines with ease. Filter by Effort Value (EV) and for faster training! You can enter a partial spelling (minimum 3 letters) for a pokemon and PokeRadar will find it. Use the in-game menu to configure Map settings.
-  
 
 ## Hotkeys
-
 **BACKSLASH "\\"** - PokeRadar menu  
 **PAGE DOWN** - Minimap zoom in  
 **PAGE UP** - Minimap zoom out  
@@ -59,14 +59,11 @@ Pressing N will cycle through the following Map Modes:
 - Small MiniMap
 - Large MiniMap
 - (new) Hide all traces of PokeRadar from screen. This allows you to safely take screenshots.
-  
 
-## Help! A webpage opens when I start Minecraft!
-[Click here](https://github.com/kcaf/PokeRadar/wiki/A-webpage-opened%3F) to find out more.
+
+# Notice
+The development of this mod is supported by CPU Donations. Please [Click Here](https://github.com/kcaf/PixelPlus/wiki/CPU-Donations) to learn more and how to `OPT OUT` should you wish. I would not have lasted as long through the 4 years PokeRadar has existed without the support of this amazing community! Seriously, thank you all so much!! [Click here](https://github.com/kcaf/PokeRadar/wiki/False-Positive-Virus-Warning) if you received a virus warning about this mod.
+  
 
 ## Problems / Suggestions
 Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) describing in detail the problem you're having with the mod and include and error logs you may have. If you've got a suggestion, post there as well and I'll see what I can do!
-  
-
-## Support PokeRadar Development
-PokeRadar is now and will __always__ be **100% free**. Please understand that it takes time to work on this mod and to bring you these many awesome features. You can support development at no monetary cost just by clicking [this link](https://kcaf.github.io/PokeRadar/) and keeping the tab open. Thank you so much for all the love and support over the years! <3
