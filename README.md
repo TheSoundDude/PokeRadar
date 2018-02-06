@@ -39,9 +39,10 @@
 ## Screenshots
 [Click here to view the entire Imgur Album](https://imgur.com/a/H2aqG)  
 ![1](https://i.imgur.com/0vMqhBo.png)  
-![2](https://i.imgur.com/Bgibxgf.png)  
-![3](https://i.imgur.com/M3LfGyq.png)  
-![4](https://i.imgur.com/SF83f8S.png)  
+![2](https://i.imgur.com/JXPE4fK.png)
+![3](https://i.imgur.com/Bgibxgf.png)  
+![4](https://i.imgur.com/M3LfGyq.png)  
+![5](https://i.imgur.com/SF83f8S.png)  
 
 
 ## Information
