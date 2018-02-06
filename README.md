@@ -26,7 +26,7 @@
 
 ### Minecraft 1.12.2
 &nbsp;&nbsp; *Pixelmon Reforged 6.1.0*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.1.0](https://mega.nz/#!ZixWBRAD!Rk35dTzqvlqR50vRHoUxPuxpkR6ZPoPCnqCMK3wQEJ4)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.1.0] (Issue with new build. Please wait...)
   
 ### Minecraft 1.10.2
 &nbsp;&nbsp; *Pixelmon Generations 1.3.2*
