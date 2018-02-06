@@ -63,7 +63,7 @@ Pressing N will cycle through the following Map Modes:
 
 
 # Notice
-The development of this mod is supported by CPU Donations. Please [Click Here](https://github.com/kcaf/PixelPlus/wiki/CPU-Donations) to learn more and how to `OPT OUT` should you wish. I would not have lasted as long through the 4 years PokeRadar has existed without the support of this amazing community! Seriously, thank you all so much!! [Click here](https://github.com/kcaf/PokeRadar/wiki/False-Positive-Virus-Warning) if you received a virus warning about this mod.
+The development of this mod is supported by CPU Donations. Please [Click Here](https://github.com/kcaf/PokeRadar/wiki/CPU-Donations) to learn more and how to `OPT OUT` should you wish. I would not have lasted as long through the 4 years PokeRadar has existed without the support of this amazing community! Seriously, thank you all so much!! [Click here](https://github.com/kcaf/PokeRadar/wiki/False-Positive-Virus-Warning) if you received a virus warning about this mod.
   
 
 ## Problems / Suggestions
