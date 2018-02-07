@@ -34,10 +34,6 @@
   
 &nbsp;&nbsp; *Pixelmon Classic 5.0.4 - 5.1.2*
 &nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.10.0](https://mega.nz/#!hnZkmKzZ!iMKx2ueHemcfTILFhSPkXg5IvqUR_vG0t-riqFEN-jM)
-
-
-# Notice
-The development of this mod is supported by CPU Donations. Please [Click Here](https://github.com/kcaf/PokeRadar/wiki/CPU-Donations) to learn more and how to `OPT OUT` should you wish. I would not have lasted as long through the 4 years PokeRadar has existed without the support of this amazing community! Seriously, thank you all so much!! [Click here](https://github.com/kcaf/PokeRadar/wiki/False-Positive-Virus-Warning) if you received a virus warning about this mod.
   
 
 ## Screenshots
@@ -52,7 +48,6 @@ The development of this mod is supported by CPU Donations. Please [Click Here](h
 ## Information
 This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, level, location, and if they are shiny. Search for specific pokemon or multiple pokemon at once with commas. Automatic waypoints and for bosses and legendaries in your area. Find PokeLoot and Shrines with ease. Filter by Effort Value (EV) and for faster training! You can enter a partial spelling (minimum 3 letters) for a pokemon and PokeRadar will find it. Use the in-game menu to configure Map settings.
 
-
 ## Hotkeys
 **BACKSLASH "\\"** - PokeRadar menu  
 **PAGE DOWN** - Minimap zoom in  
@@ -65,6 +60,10 @@ Pressing N will cycle through the following Map Modes:
 - Small MiniMap
 - Large MiniMap
 - (new) Hide all traces of PokeRadar from screen. This allows you to safely take screenshots.
+
+
+# Notice
+The development of this mod is supported by CPU Donations. Please [Click Here](https://github.com/kcaf/PokeRadar/wiki/CPU-Donations) to learn more and how to `OPT OUT` should you wish. I would not have lasted as long through the 4 years PokeRadar has existed without the support of this amazing community! Seriously, thank you all so much!! [Click here](https://github.com/kcaf/PokeRadar/wiki/False-Positive-Virus-Warning) if you received a virus warning about this mod.
   
 
 ## Problems / Suggestions
