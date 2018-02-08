@@ -1,6 +1,10 @@
 # PokeRadar for Minecraft Pixelmon
 [![Join Discord](https://i.imgur.com/5PeuGS2.png)](https://discord.gg/7zWEuT8)
 
+# Attention
+The development of this mod is supported by CPU Donations. Please [Click Here](https://github.com/kcaf/PokeRadar/wiki/CPU-Donations) to learn more and how to `OPT OUT` should you wish. I would not have lasted as long through the 4 years PokeRadar has existed without the support of this amazing community! Seriously, thank you all so much!!
+
+
 # Features
 - You can now disable the minimap
 - Lines!!! (see Screenshots below)
@@ -45,12 +49,8 @@
 ![5](https://i.imgur.com/SF83f8S.png)  
 
 
-# Notice
-The development of this mod is supported by CPU Donations. Please [Click Here](https://github.com/kcaf/PokeRadar/wiki/CPU-Donations) to learn more and how to `OPT OUT` should you wish. I would not have lasted as long through the 4 years PokeRadar has existed without the support of this amazing community! Seriously, thank you all so much!! [Click here](https://github.com/kcaf/PokeRadar/wiki/False-Positive-Virus-Warning) if you received a virus warning about this mod.
-
-
 ## Information
-This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, level, location, and if they are shiny. Search for specific pokemon or multiple pokemon at once with commas. Automatic waypoints and for bosses and legendaries in your area. Find PokeLoot and Shrines with ease. Filter by Effort Value (EV) and for faster training! You can enter a partial spelling (minimum 3 letters) for a pokemon and PokeRadar will find it. Use the in-game menu to configure Map settings.
+This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, level, location, and if they are shiny. Search for specific pokemon or multiple pokemon at once with commas. Automatic waypoints and for bosses and legendaries in your area. Find PokeLoot and Shrines with ease. Filter by Effort Value (EV) and for faster training! You can enter a partial spelling (minimum 3 letters) for a pokemon and PokeRadar will find it. Use the in-game menu to configure Map settings. [Click here](https://github.com/kcaf/PokeRadar/wiki/False-Positive-Virus-Warning) if you received a virus warning about this mod.
 
 
 ## Hotkeys
