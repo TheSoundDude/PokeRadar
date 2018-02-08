@@ -30,7 +30,7 @@ The development of this mod is supported by CPU Donations. Please [Click Here](h
 
 ### Minecraft 1.12.2
 &nbsp;&nbsp; *Pixelmon Reforged 6.1.0*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.1.2](https://mega.nz/#!sm5HyAiS!cRE5LOW-RXc67SDF66R9NnhZQT7E-bBMxxiyZ0q9LxQ)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.1.3](https://mega.nz/#!BqZkAAiA!_NnTUvT39aD7fOHFjU0KqS4VRto4HM0AA0hl3AjryRE)
   
 ### Minecraft 1.10.2
 &nbsp;&nbsp; *Pixelmon Generations 1.3.3*
