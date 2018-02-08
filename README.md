@@ -30,14 +30,14 @@ The development of this mod is supported by CPU Donations. Please [Click Here](h
 
 ### Minecraft 1.12.2
 &nbsp;&nbsp; *Pixelmon Reforged 6.1.0*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.1.3](https://mega.nz/#!BqZkAAiA!_NnTUvT39aD7fOHFjU0KqS4VRto4HM0AA0hl3AjryRE)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 4.1.3 Download](https://mega.nz/#!BqZkAAiA!_NnTUvT39aD7fOHFjU0KqS4VRto4HM0AA0hl3AjryRE)
   
 ### Minecraft 1.10.2
 &nbsp;&nbsp; *Pixelmon Generations 1.3.3*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.10.0](https://mega.nz/#!hnZkmKzZ!iMKx2ueHemcfTILFhSPkXg5IvqUR_vG0t-riqFEN-jM)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.10.0 Download](https://mega.nz/#!hnZkmKzZ!iMKx2ueHemcfTILFhSPkXg5IvqUR_vG0t-riqFEN-jM)
   
 &nbsp;&nbsp; *Pixelmon Classic 5.0.4 - 5.1.2*
-&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.10.0](https://mega.nz/#!hnZkmKzZ!iMKx2ueHemcfTILFhSPkXg5IvqUR_vG0t-riqFEN-jM)
+&nbsp;&nbsp;&nbsp;&nbsp; - [PokeRadar 3.10.0 Download](https://mega.nz/#!hnZkmKzZ!iMKx2ueHemcfTILFhSPkXg5IvqUR_vG0t-riqFEN-jM)
   
 
 ## Screenshots
